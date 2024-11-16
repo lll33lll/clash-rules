@@ -1,7 +1,7 @@
 proxy-providers:
   CNIX:
     type: http
-    url: "这里需要替换为你的订阅链接，请保留双引号和双引号前面的空格"
+    url: "https://sub.miaolianyun.vip/mly_sub?token=760a8ef601f566fb3ccad214e5d7c340"
     path: ./cnix.yaml
     interval: 7200
 mixed-port: 7890
